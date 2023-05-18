@@ -12,8 +12,7 @@ body
 img 
 {
     float: left;
-    height: 120px;
-    max-width: 160px;
+    width: 15%;
     padding-right: 1.5rem;
 }
 
