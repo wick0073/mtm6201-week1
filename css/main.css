@@ -22,14 +22,14 @@ img
     padding-right: 1.5rem;
 }
 
-table thead tr th 
+table tr th 
 {
     display: inline-block;
     font-weight: 800;
     font-size: 1.2rem;
 }
 
-table thead tr td 
+table tr td 
 {
     color: #FFFFFF;
 }
