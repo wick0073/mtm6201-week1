@@ -1,3 +1,7 @@
+.paragraph
+{
+    overflow: hidden;
+}
 body
 {
     margin: 0;
